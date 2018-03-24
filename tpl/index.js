@@ -31,9 +31,9 @@ export default class {{pageName}} extends PView {
         navTitle="{{pageName}}"
       >
         <View style={styles.container}>
-          <Text>{{pageName}}<Text>
+          <Text>{{pageName}}</Text>
         </View>
-      />
+      </Page>
     );
   }
 }

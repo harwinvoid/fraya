@@ -7,19 +7,19 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "fraya": "./bin"
+    "fraya": "./bin/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harwinvoid/x-code.git"
+    "url": "git+https://github.com/harwinvoid/fraya.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/harwinvoid/x-code/issues"
+    "url": "https://github.com/harwinvoid/fraya/issues"
   },
-  "homepage": "https://github.com/harwinvoid/x-code#readme",
+  "homepage": "https://github.com/harwinvoid/fraya#readme",
   "dependencies": {
     "chalk": "^2.3.2",
     "commander": "^2.15.1",
