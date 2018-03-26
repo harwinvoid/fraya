@@ -7,7 +7,7 @@ program
   
 program
   .command('new <page-name>')
-  .description('create a new Page powered by x-cde')
+  .description('create a new Page powered by fraya')
   .action((name, cmd) => {
     require('../lib/create')(name)
   })
