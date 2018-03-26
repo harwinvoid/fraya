@@ -13,7 +13,7 @@ export default class {{pageName}} extends PView {
     super(props);
     this.state = {
       
-    }; 
+    };
   }
 
   bindEvents = {
