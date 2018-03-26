@@ -6,7 +6,7 @@ import RNPlus, { PView } from 'rnplus';
 
 import { Page } from 'BizComponent';
 
-import styles  from './style';
+import styles from './style';
 
 export default class {{pageName}} extends PView {
   constructor(props) {
